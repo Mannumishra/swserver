@@ -31,7 +31,8 @@ const allowedOrigins = [
     'http://localhost:3000',
     'http://localhost:3001',
     'http://localhost:3002',
-    'https://swadmin.vercel.app'
+    'https://swadmin.vercel.app',
+    'https://swfrontend.digiindiasolutions.com'
 ];
 
 // CORS configuration
